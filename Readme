@@ -1,0 +1,9 @@
+Readme
+
+//Objective: Create website for Pho Kitchen
+//https://www.yelp.com/biz/pho-kitchen-san-diego-5?osq=asian+food
+
+//Use bootstrap. Why? so that it is responsive on web and mobile platforms
+//https://www.bootstrapcdn.com/
+
+1) I pulled in the bootstrap cdn for CSS and JS and plugged it into the head of the .html file.
